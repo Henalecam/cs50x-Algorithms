@@ -1,0 +1,48 @@
+Random S1:
+R: 0.108s | U: 0.054s | S: 0.027s | Test 5000
+R: 0.319s | U: 0.249s | S: 0.042s | Test 10000
+R: 8.768s | U: 6.921s | S: 0.207s | Test 50000
+
+Reversed S1:
+R: 0.069s | U: 0.052s | S: 0.015s | Test 5000
+R: 0.269s | U: 0.196s | S: 0.043s | Test 10000
+R: 6.391s | U: 5.084s | S: 0.219s | Test 50000
+
+Sorted S1:
+R: 0.090s | U: 0.003s | S: 0.022s | Test 5000
+R: 0.092s | U: 0.004s | S: 0.029s | Test 10000
+R: 2.136s | U: 0.035s | S: 0.168s | Test 50000
+
+Random S2:
+R: 0.033s | U: 0.007s | S: 0.018s | Test 5000
+R: 0.103s | U: 0.019s | S: 0.035s | Test 10000
+R: 2.617s | U: 0.059s | S: 0.183s | Test 50000
+
+Reversed S2:
+R: 0.034s | U: 0.005s | S: 0.019s | Test 5000
+R: 0.089s | U: 0.013s | S: 0.029s | Test 10000
+R: 1.963s | U: 0.046s | S: 0.125s | Test 50000
+
+Sorted S2:
+R: 0.044s | U: 0.003s | S: 0.020s | Test 5000
+R: 0.063s | U: 0.011s | S: 0.031s | Test 10000
+R: 3.283s | U: 0.035s | S: 0.172s | Test 50000
+
+Random S3:
+R: 0.048s | U: 0.027s | S: 0.019s | Test 5000
+R: 0.164s | U: 0.098s | S: 0.046s | Test 10000
+R: 6.743s | U: 3.394s | S: 0.250s | Test 50000
+
+Reversed S3:
+R: 0.073s | U: 0.039s | S: 0.010s | Test 5000
+R: 0.223s | U: 0.093s | S: 0.053s | Test 10000
+R: 4.825s | U: 2.697s | S: 0.156s | Test 50000
+
+Sorted S3:
+R: 0.067s | U: 0.017s | S: 0.031s | Test 5000
+R: 0.188s | U: 0.110s | S: 0.042s | Test 10000
+R: 4.390s | U: 2.625s | S: 0.144s | Test 50000
+
+S2: Merge sort
+S3: Bubble sort
+S1: Selection sort

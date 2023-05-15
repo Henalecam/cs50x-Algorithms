@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because in the best case it was a good time comparing to others
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it got a good time score in all the cases
+
+sort3 uses: Selection Sort
+
+How do you know?: Because in all the cases was almost the same result, and selection need to see everyone value anyway
