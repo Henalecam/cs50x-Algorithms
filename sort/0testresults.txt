@@ -43,6 +43,6 @@ R: 0.067s | U: 0.017s | S: 0.031s | Test 5000
 R: 0.188s | U: 0.110s | S: 0.042s | Test 10000
 R: 4.390s | U: 2.625s | S: 0.144s | Test 50000
 
+S1: Selection sort
 S2: Merge sort
 S3: Bubble sort
-S1: Selection sort
